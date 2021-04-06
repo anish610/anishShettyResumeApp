@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* body { ... }
+
+h1, h2, h3, h4 { ... }
+
+ul { ... } */
+
+body {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: "Courier New", Courier, monospace;
+}

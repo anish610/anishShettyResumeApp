@@ -1,0 +1,51 @@
+div {
+  text-align: center;
+  position: sticky;
+  z-index: 988;
+  background-color: white;
+  top: 0;
+  width: 100%;
+}
+
+p.name {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+p.designation {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.Button {
+  background-color: #09555b;
+  color: white;
+  border: 2px;
+  border-color: black;
+  font-size: x-large;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Courier New", Courier, monospace;
+  position: absolute;
+  right: 100px;
+  top: 0;
+  margin-top: 18px;
+}
+
+Button:hover, Button:active{
+  font-size: 170%;
+  background: #0ba1ac;
+}
+
+div hr {
+  height: 3px;
+  background-color: #09555b;
+  border: none;
+}
+
+a{
+  color:white;
+  text-decoration:none;
+}
